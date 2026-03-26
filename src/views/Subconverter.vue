@@ -240,7 +240,7 @@ export default {
       // 配置选项
       options: {
         clientTypes: CLIENT_TYPES,
-        backendOptions: [{ value: "https://dongdingding-subconventer.hf.space" }],
+        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
         remoteConfig: REMOTE_CONFIGS
       },
 
